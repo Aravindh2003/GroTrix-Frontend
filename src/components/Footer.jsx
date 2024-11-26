@@ -31,19 +31,19 @@ const Footer = () => {
 
             <div className='social-media'>
             
-              <a href='#'>
+              <a href='/'>
                 <FaFacebook className='social-icon' />
               </a>
               
-              <a href='#'>
+              <a href='/'>
                 <FaInstagram className='social-icon' />
               </a>
               {/* Twitter */}
-              <a href='#'>
+              <a href='/'>
                 <FaTwitter className='social-icon' />
               </a>
 
-              <a href='#'>
+              <a href='/'>
                 <FaLinkedin className='social-icon' />
               </a>
             </div>
@@ -52,16 +52,16 @@ const Footer = () => {
           <div className='column'>
             <h3>About Us</h3>
             <div className='links'>
-              <a href='#'>
+              <a href='/'>
                 About Us <HiExternalLink />
               </a>
-              <a href='#'>
+              <a href='/'>
                 Why Us <HiExternalLink />
               </a>
-              <a href='#'>
+              <a href='/'>
                 Security <HiExternalLink />
               </a>
-              <a href='#'>
+              <a href='/'>
                 Testimonials <HiExternalLink />
               </a>
             </div>
@@ -69,17 +69,17 @@ const Footer = () => {
           <div>
             <h3>Help</h3>
             <div className='links'>
-              <a href='#'>
+              <a href='/'>
                 Account <HiExternalLink />
               </a>
-              <a href='#'>
+              <a href='/'>
                 Support Center <HiExternalLink />
               </a>
-              <a href='#'>
+              <a href='/'>
                 Privacy Policy <HiExternalLink />
                
               </a>
-              <a href='#'>
+              <a href='/'>
                 Terms & Conditions <HiExternalLink />
               </a>
             </div>

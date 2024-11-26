@@ -26,6 +26,7 @@ const sampleProducts = [
   }
 ];
 const ProductCarousel = () => {
+  // eslint-disable-next-line no-unused-vars
   const { data: products, isLoading, error } = useGetTopProductsQuery();
   const [index, setIndex] = useState(0);
 
