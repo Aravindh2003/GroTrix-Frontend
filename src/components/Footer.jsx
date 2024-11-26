@@ -9,12 +9,7 @@ import logo from '../assets/l1.png';
 
 import './Footer.css';
 import { HiExternalLink } from 'react-icons/hi';
-class Link {
-  constructor(name, href) {
-    this.name = name;
-    this.href = href || '#';
-  }
-}
+
 
 const Footer = () => {
   return (
@@ -116,17 +111,6 @@ const Footer = () => {
   );
 };
 
-const Links = ({ title, linksArray }) => (
-  <div className='column'>
-    <h3>{title}</h3>
-    <div className='links'>
-      {linksArray.map((link, i) => (
-        <a key={i} href={link.href}>
-          {link.name}
-        </a>
-      ))}
-    </div>
-  </div>
-);
+
 
 export default Footer;
