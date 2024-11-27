@@ -82,6 +82,6 @@ This project is a fully functional **e-commerce platform for grocery products**,
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-grocery.git
-   cd ecommerce-grocery
+   git clone https://github.com/Aravindh2003/GroTrix-Frontend.git
+   cd GroTrix-Frontend
 
