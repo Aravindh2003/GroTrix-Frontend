@@ -71,17 +71,10 @@ This project is a fully functional **e-commerce platform for grocery products**,
 
 ---
 
-## Setup Instructions
-
-### Prerequisites
-- Node.js (v14 or higher)
-- MongoDB (local instance or MongoDB Atlas)
-- PayPal developer account for API integration
-
 ### Installation
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Aravindh2003/GroTrix-Frontend.git
    cd GroTrix-Frontend
-
+You can clone the repository and test it on your local system.
